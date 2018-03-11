@@ -1,0 +1,4 @@
+Step 1 -> https://laravel-news.com/your-first-laravel-application
+
+Step 2 -> https://laravel-news.com/authorization-gates
+
